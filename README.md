@@ -39,3 +39,21 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
+### To-do
+
+```
+Add other media types (audio, videos) to search results
+```
+
+```
+Add custom CSS styles to have a more appealing look
+```
+
+```
+Add dark mode
+```
+
+```
+Improve pagination
+```
